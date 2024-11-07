@@ -1,0 +1,14 @@
+.seasonContainer {
+    border: solid black;
+
+}
+.mainImage {
+    width: 100%;
+}
+
+.fallContainer {
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-around;
+}
+
